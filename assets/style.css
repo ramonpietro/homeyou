@@ -112,6 +112,7 @@ section button {
     color: var(--white);
     background-color: var(--dark-color);
     border: none;
+    cursor: pointer;
 }
 
 section a {
